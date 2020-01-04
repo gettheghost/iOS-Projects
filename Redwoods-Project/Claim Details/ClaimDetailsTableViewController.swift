@@ -1,11 +1,3 @@
-//
-//  ClaimDetailsTableViewController.swift
-//  Redwoods Project
-//
-//  Created by Kevin Poorman on 11/26/18.
-//  Copyright © 2018 Salesforce. All rights reserved.
-//
-
 import UIKit
 import SalesforceSDKCore
 
